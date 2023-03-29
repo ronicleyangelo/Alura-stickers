@@ -29,7 +29,7 @@ Retirando da <blockqoute>AWS</blockqoute>
 API ultilizada na Imersão Do Java 2
 [_API utilizada no projeto_](https://raw.githubusercontent.com/lukadev08/lukadev08.github.io/main/apidata/imdbtop250moviesdata.json)
 
-![_API DA IMDB_](img_1.png)
+![_API DA IMDB_](src/image/img_1.png)
 
 ## Resultado da saída do Terminal 
-![Rsultado dos Filmes](img.png)
+![Rsultado dos Filmes](src/image/img.png)
