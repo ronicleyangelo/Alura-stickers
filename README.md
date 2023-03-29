@@ -1,6 +1,6 @@
 # Imersão em Java 2
 Projeto imergido através da [Alura](https://www.alura.com.br/planos-cursos-online?gclid=Cj0KCQjww4-hBhCtARIsAC9gR3afm3VAR5PGWHB5AR6jVd_14wKCfHFkVoYXpn9VFUMPHvw_lw_jl4YaAhHJEALw_wcB) que é uma plataforma de tecnologia voltado para o mercado de trabalho.
-Foi composto por buscar *__API__* *_,_* *__Extrair os dados__* *_&&_* *__Mostrar na saída__* 
+Foi composto por buscar listas de melhores filmes e series na *__API__* *_,_* *__Extrair os dados__* *_&&_* *__Mostrar na saída__* 
 
 ## Folder Structure
 
@@ -29,5 +29,5 @@ Retirando da <blockqoute>AWS</blockqoute>
 API ultilizada na Imersão Do Java 2
 [_API utilizada no projeto_](https://raw.githubusercontent.com/lukadev08/lukadev08.github.io/main/apidata/imdbtop250moviesdata.json)
 
-## Resultado da saída no Terminal 
+## Resultado da saída do Terminal 
 ![Rsultado dos Filmes](img.png)
