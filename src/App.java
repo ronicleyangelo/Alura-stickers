@@ -19,12 +19,12 @@ public class App {
 
         for (Map<String,String> filme : listaDeFilmes) {
             System.out.println("\u001b[38;5;214mTítulo:\u001b[m" + " 🎥 " + filme.get("title"));
-            System.out.println("\u001b[38;5;218mURL da imagem:\u001b[m" + filme.get("image"));
-            System.out.println();
+            System.out.println("\u001b[38;5;218mImagem:\u001b[m" + filme.get("image"));
             double classificao = Double.parseDouble(filme.get("imDbRating"));
             int numeroEstrela = (int) classificao;
+            System.out.println("\u001b[38;5;212mClassificação: \u001b[m" +  filme.get("imDbRating") );
             for (int i = 1; i <= numeroEstrela ; i++) {
-                System.out.print("❤");
+                System.out.print("⭐");
             }
             System.out.println("\n");
         }
