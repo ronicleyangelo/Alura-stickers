@@ -12,8 +12,8 @@ public class GeradorDeFigurinhas {
 
         //leitura da imagem
         BufferedImage imageOriginal = ImageIO.read(inputStream);
-
         // criar nova imagem em memória com transparência e com tamnanho novo
+
         Integer largura   = imageOriginal.getWidth() + 300;
         Integer altura    = imageOriginal.getHeight();
         Integer newAltura = altura + 300;
